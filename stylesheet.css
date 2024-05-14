@@ -1,0 +1,33 @@
+body{
+    background-color: #e7d488;
+    background-image: url('../images/india.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+#headerSection{
+    padding: 10px;
+}
+
+#headerSection h1{
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+
+input{
+    padding: 10px;
+    border: radius 5px; 
+}
+
+#dropbox{
+    padding: 10px;
+    border: radius 5px;
+    width: 15%;
+}
+
+#loginButton{
+    padding: 5px;
+    font-size: 15px;
+    border: radius 5px;
+    background-color: blue;
+    color: antiquewhite;
+}
